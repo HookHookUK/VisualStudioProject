@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\BFSver2\BFSver2\obj\Debug\BFSver2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BFSver2\BFSver2\obj\Debug\BFSver2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BFSver2\BFSver2\obj\Debug\BFSver2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BFSver2\BFSver2\bin\Debug\BFSver2.exe.config
+C:\Users\User\Desktop\BFSver2\BFSver2\bin\Debug\BFSver2.exe
+C:\Users\User\Desktop\BFSver2\BFSver2\bin\Debug\BFSver2.pdb
+C:\Users\User\Desktop\BFSver2\BFSver2\obj\Debug\BFSver2.exe
+C:\Users\User\Desktop\BFSver2\BFSver2\obj\Debug\BFSver2.pdb

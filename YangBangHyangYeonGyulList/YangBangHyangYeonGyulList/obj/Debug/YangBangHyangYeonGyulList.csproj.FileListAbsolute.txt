@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\bin\Debug\YangBangHyangYeonGyulList.exe.config
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\bin\Debug\YangBangHyangYeonGyulList.exe
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\bin\Debug\YangBangHyangYeonGyulList.pdb
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\obj\Debug\YangBangHyangYeonGyulList.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\obj\Debug\YangBangHyangYeonGyulList.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\obj\Debug\YangBangHyangYeonGyulList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\obj\Debug\YangBangHyangYeonGyulList.exe
+C:\Users\User\Desktop\YangBangHyangYeonGyulList\YangBangHyangYeonGyulList\obj\Debug\YangBangHyangYeonGyulList.pdb
